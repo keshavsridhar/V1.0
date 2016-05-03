@@ -1,5 +1,5 @@
 from copy import deepcopy
-file1 = open(r'C:\Users\keshs\Desktop\M.S Data Science\Elements of A.I\homework_assignments\Input_File.txt','r').read().upper()
+file1 = open(r'\Input_File.txt','r').read().upper()
 source = input("Enter source: ").upper()
 target = input("Enter target: ").upper()
 
